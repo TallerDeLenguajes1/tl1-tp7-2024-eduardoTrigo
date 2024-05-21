@@ -1,11 +1,16 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+using CalculadoraNamespace;
+{
+    
+}
 class Calculadora
 {
-    console.Read();
     int dato1;
     int dato2;
 
+    console.Read(dato1);
+    console.Read(dato2);
     void Sumar(double termino)
     {
         int aux;
