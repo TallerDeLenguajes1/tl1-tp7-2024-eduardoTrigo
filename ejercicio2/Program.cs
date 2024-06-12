@@ -37,3 +37,6 @@ empleado.CargarDatos(nombre, apellido, fechaNac, eCivil, fechaI, sueldoB, cargo)
 
 //mostrar los datos del empleado
 empleado.MostrarDatos();
+
+double sueldoAcobrar = empleado.CalcularSalario();
+Console.WriteLine($"Sueldo a cobrar: {sueldoAcobrar}");
