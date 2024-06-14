@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\bin\Debug\net8.0\ejercicio2b.exe
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\bin\Debug\net8.0\ejercicio2b.deps.json
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\bin\Debug\net8.0\ejercicio2b.runtimeconfig.json
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\bin\Debug\net8.0\ejercicio2b.dll
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\bin\Debug\net8.0\ejercicio2b.pdb
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\obj\Debug\net8.0\ejercicio2b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\obj\Debug\net8.0\ejercicio2b.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\obj\Debug\net8.0\ejercicio2b.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\obj\Debug\net8.0\ejercicio2b.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\obj\Debug\net8.0\ejercicio2b.sourcelink.json
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\obj\Debug\net8.0\ejercicio2b.dll
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\obj\Debug\net8.0\refint\ejercicio2b.dll
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\obj\Debug\net8.0\ejercicio2b.pdb
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\obj\Debug\net8.0\ejercicio2b.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\taller de lenguaje\tps\tl1-tp7-2024-eduardoTrigo\ejercicio2b\obj\Debug\net8.0\ref\ejercicio2b.dll
