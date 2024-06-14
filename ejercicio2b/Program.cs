@@ -2,7 +2,7 @@
 using EspacioEmpleado;
 Console.WriteLine("Hello, World!");
 
-Empleado[] empleados = new Empleado[1];
+Empleado[] empleados = new Empleado[3];
 
 for (int i = 0; i < empleados.Length; i++)
 {
@@ -30,3 +30,8 @@ for (int i = 0; i < empleados.Length; i++)
 {
     Console.WriteLine(empleados[i].MostrarDatosEmpleado());
 }
+
+double salariosTotales = Empresa.TotalSalarios(empleados);
+Console.WriteLine($"total salarios a Pagar: {salariosTotales}");
+
+Empresa.MostrarProximoJubilacion(empleados);

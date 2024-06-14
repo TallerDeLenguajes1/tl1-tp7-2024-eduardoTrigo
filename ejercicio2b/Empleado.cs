@@ -78,6 +78,13 @@ public class Empleado
         }
     }
 
+    public int RestanteJubilacion{
+        get
+        {
+            int anios = 65 - Edad;
+            return anios;
+        }
+    }
 
     public void CargarDatos(string nombre, string apellido, DateTime fechaNac, char eCivil, DateTime fechaIngreso, double sueldoBasico, Cargos cargo)
     {
@@ -91,6 +98,6 @@ public class Empleado
     }
     public string MostrarDatosEmpleado()
     {
-        return Nombre + ", " + Apellido + " | " + FechaNac.ToShortDateString() + " | " + SueldoBasico + " | " + Antiguedad+" | "+ Salario;
+        return Nombre + ", " + Apellido + " | " + FechaNac.ToShortDateString() + " | " + SueldoBasico + " | " + Antiguedad +" | "+ Salario+" | "+ Edad + " | " + RestanteJubilacion;
     }
 }
